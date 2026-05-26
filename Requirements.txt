@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+deepface
+Pillow
+sendgrid
+openai
+requests
+pyttsx3
+SpeechRecognition
+tf-keras
