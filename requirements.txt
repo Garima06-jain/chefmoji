@@ -8,3 +8,4 @@ requests
 pyttsx3
 SpeechRecognition
 tf-keras
+numpy
